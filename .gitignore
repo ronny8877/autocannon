@@ -5,10 +5,6 @@
 /bin
 /pkg
 
-# Go modules
-/go.mod
-/go.sum
-
 # IDE files
 .idea
 .vscode
